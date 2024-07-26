@@ -28,9 +28,6 @@ cd NebulaWebSocketServer
 ## Usage
 
 ```java
-import com.coffeeclub.nebula.WebsocketServer;
-import de.coffeeclub.websockettestserver.*;
-
 public class Main {
     public static void main(String[] args) {
         MessageConsumer messageConsumer = new MessageConsumer() {
