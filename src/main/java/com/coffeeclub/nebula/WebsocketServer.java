@@ -23,7 +23,6 @@ import java.util.logging.Logger;
  * A simple WebSocket server for testing purposes.
  * <a href="https://www.rfc-editor.org/rfc/rfc6455">rfc6455</a>
  *
- * @author maksim.hvatov
  */
 public class WebsocketServer {
     private final static Logger LOGGER = Logger.getLogger(WebsocketServer.class.getName());
